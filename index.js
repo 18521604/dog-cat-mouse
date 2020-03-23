@@ -6,4 +6,3 @@ var Cat = new cat();
 
 Tom.eat(Cat);
 console.log(Tom);
-Tom.sayHi();
